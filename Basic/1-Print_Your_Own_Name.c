@@ -1,11 +1,5 @@
 #include <stdio.h>
-/**
- * main - entry point
- *
- * Description: print your own name
- *
- * Return: 0 (success)
-*/
+
 int main(void)
 {
 	char name[10] = "unknown";
